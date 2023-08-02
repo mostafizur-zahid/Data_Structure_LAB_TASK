@@ -8,9 +8,7 @@ void largest(int array[],int x){
             larg = array[i];
     }
     printf("%d\n",larg);
-
 }
-
 
 int main(){
     int n;
